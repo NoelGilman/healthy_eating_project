@@ -1,4 +1,4 @@
-# 🥗 Healthy Eating Dataset Analysis
+#  Healthy Eating Dataset Analysis
 
 This project presents a comprehensive Excel-based data analysis of **healthy eating patterns**, focusing on different types of meals and their nutritional values. The dataset explores how meal type, cuisine, and diet category influence calorie intake, macronutrients, and overall nutrient balance.
 
