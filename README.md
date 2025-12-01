@@ -1,1 +1,1 @@
-# healty_eating_project
+# healthy_eating_project
