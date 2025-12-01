@@ -85,5 +85,13 @@ The goal of this analysis is to identify **healthiest meal options**, compare nu
 
 ---
 
+## 📌 Conclusion
+
+This project demonstrates how Excel can be used to extract meaningful insights from nutritional data and support healthy lifestyle decisions. By analyzing meal components, diet types, and nutrient distribution, we were able to determine optimal eating patterns that promote wellness and balanced nutrition.
+
+The findings can be applied in **health coaching, diet planning, meal-prep startups, and nutritional education programs**.
+
+---
+
 
 
